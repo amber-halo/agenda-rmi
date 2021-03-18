@@ -1,0 +1,8 @@
+# agenda-rmi
+Agenda de contactos creada con Java y una arquitectura RMIuario (cliente) puede crear y listar contactos.
+
+El usuario (cliente) puede crear y listar contactos.
+
+Para comenzar la aplicación se debe ejecutar el archivo Servidor.java y después, el archivo Cliente.java.
+
+La explicación de la aplicación se encuentra en el siguiente [enlace](https://youtu.be/WolYgCjopz0).
