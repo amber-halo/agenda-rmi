@@ -3,7 +3,7 @@ Agenda de contactos creada con Python y una arquitectura RMI.
 
 EL usuario (cliente) puede crear y listar contactos.
 
-Esta aplicaci√≥n est√° creada usando el m√≥dulo **Pyro4**. La documentaci√≥n oficial se puede encontrar [aqui](https://pyro4.readthedocs.io/en/stable/).
+Esta aplicaciÛn est·° creada usando el mÛdulo **Pyro4**. La documentaciÛn oficial se puede encontrar [aqui](https://pyro4.readthedocs.io/en/stable/).
 
 Antes de ejecutar la aplicaci√≥n, debemos instalar algunas librerias:
 
@@ -24,6 +24,6 @@ python server.py
 python client.py
 ```
 
-Dado que se est√° usando una base de datos en la nube, hay completa libertad de agregar datos y leerlos en cualquier momento.
+Dado que se est· usando una base de datos en la nube, hay completa libertad de agregar datos y leerlos en cualquier momento.
 
 La explicaciÛn en video se puede encontrar en el siguiente [enlace](https://www.youtube.com/watch?v=JZ-5qzYjrwM).
